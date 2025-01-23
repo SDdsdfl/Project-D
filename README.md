@@ -1,5 +1,6 @@
 # TDP/ The DATA Project
 A project aimed at creating compressed files containing both entertainment and educational content available for download in case of offline access.
+---
 # Rules and Guidelines
 
 Welcome to the Offline Survival & Entertainment Repository! Please follow these simple rules to help us keep this project organized, accessible, and useful for everyone.
