@@ -1,6 +1,6 @@
 # TDP/ The DATA Project
 A project aimed at creating compressed files containing both entertainment and educational content available for download in case of offline access.
----
+
 # Rules and Guidelines
 
 Welcome to the Offline Survival & Entertainment Repository! Please follow these simple rules to help us keep this project organized, accessible, and useful for everyone.
@@ -8,10 +8,7 @@ Welcome to the Offline Survival & Entertainment Repository! Please follow these 
 ---
 
 ## 1. General Rules
-- *Purpose:* This repository is for collecting survival, educational, and entertainment resources that can be accessed offline. All contributions should align with this goal.
-- *Legal Content Only:* Only upload resources that:
-  - Are public domain, open-source, or have a compatible license.
-  - Are your original work.
+- *Purpose:* This repository is for collecting survival, educational, and entertainment resources that can be accessed offline. All contributions should align with this goal. (ie:dont upload websites if they cant be used offline)  
 - *Respect for Everyone:* Avoid content that’s offensive, culturally insensitive, or irrelevant.
 
 ---
